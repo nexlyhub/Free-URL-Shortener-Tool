@@ -1,4 +1,4 @@
-# 🔗 Nexlyhub URL Shortener
+# 🔗 Free Nexlyhub URL Shortener
 
 Your clean, fast, customizable link shortener — built for everyone.  
 Create short links instantly. No login. No clutter. Just results.
